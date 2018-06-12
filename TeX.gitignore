@@ -61,6 +61,7 @@ acs-*.bib
 
 # cprotect
 *.cpt
+*.ACSII
 
 # elsarticle (documentclass of Elsevier journals)
 *.spl
@@ -79,6 +80,7 @@ acs-*.bib
 *.tfm
 *.[1-9]
 *.[1-9][0-9]
+*.[5 * 5]
 
 #(r)(e)ledmac/(r)(e)ledpar
 *.end
